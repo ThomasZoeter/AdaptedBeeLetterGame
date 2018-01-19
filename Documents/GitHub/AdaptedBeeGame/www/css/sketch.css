@@ -1,0 +1,24 @@
+
+pre.source {
+    background: #e5eeee;
+    padding: 10px 20px;
+    width: 760px;
+    overflow-x: auto;
+    border: 1px solid #acc;
+}
+
+code { background: #cff; }
+
+.tools {
+padding-top: 10px;
+display: block;
+}
+
+.tools a {
+    border-radius: 20;
+    border: 1px solid gray;
+    height: 30px; line-height: 30px;
+    padding: 0 10px; vertical-align: middle;
+    text-align: center; text-decoration: none;
+    display: inline-block; font-weight: bold;
+}
